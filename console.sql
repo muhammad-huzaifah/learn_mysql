@@ -1,0 +1,11 @@
+SHOW DATABASES ;
+
+CREATE DATABASE belajar_mysql2;
+
+SHOW DATABASES ;
+
+DROP DATABASE belajar_mysql2;
+
+USE belajar_mysql2;
+
+SHOW TABLES ;
