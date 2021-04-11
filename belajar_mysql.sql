@@ -87,3 +87,6 @@ VALUES('P0001', 'Mie Ayam Original', 15000, 100);
 SELECT * FROM products;
 
 
+
+
+
